@@ -11,3 +11,11 @@ Used APIs
 * https://coronavirus-19-api.herokuapp.com
 * https://corona.lmao.ninja
 
+
+
+Main Repo Link
+----------
+
+https://github.com/ahmedfarag9/Covid19-MiddleEast/blob/master/README.md
+
+
